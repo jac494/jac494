@@ -39,7 +39,8 @@ I've worked with a ton of amazing folks, here are some that have made major impa
 
 ### ALSAC
 
-* tbd (see note below)
+* [Victor Obiremi](https://github.com/obz10050)
+  * we work together on supporting Kafka at ALSAC and I can't say enough good stuff here. A great joy to work with and learning from each other is consistently fun and rewarding. As a platform owner trying to wrangle some sense into so many places at once, having a strong engineer who could ship even faster if we let him is the best.
 
 ### FB/Meta
 
