@@ -37,4 +37,24 @@ I've also never worked at a company that couldn't use one single contribution to
 
 I've worked with a ton of amazing folks, here are some that have made major impacts on how I think about work, life, and a bit of everything:
 
+### ALSAC
+
+* tbd (see note below)
+
+### FB/Meta
+
+* tbd (see note below)
+
+### Dropbox
+
+* tbd (see note below)
+
+### Autozone
+
+* tbd (see note below)
+
+### Other folks who impacted me in a positive way
+
+* tbd (see note below)
+
 Note: *I want to put some people on this list but I'd rather do it through a set of PRs and ask folks to consent to their inclusion on this list and what I'm saying about them, so I intend for this to be populated over time.*
