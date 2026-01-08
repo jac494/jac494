@@ -39,6 +39,8 @@ I've worked with a ton of amazing folks, here are some that have made major impa
 
 ### ALSAC
 
+* [David Siddon](https://github.com/dlsiddon)
+  * what happens is he is so far ahead of anything we're doing that he'll casually drop something my way on some thing we could improve and then when it dawns on me months later, I finally get around to it and we push it out. He's super patient with me and it's much appreciated. Consistently lands massive impact while actively mentoring not only our team but nearly our entire org.
 * [Victor Obiremi](https://github.com/obz10050)
   * we work together on supporting Kafka at ALSAC and I can't say enough good stuff here. A great joy to work with and learning from each other is consistently fun and rewarding. As a platform owner trying to wrangle some sense into so many places at once, having a strong engineer who could ship even faster if we let him is the best.
 
