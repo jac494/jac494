@@ -12,6 +12,8 @@ I've worked with a ton of amazing folks, here are some that have made major impa
 
 * [David Siddon](https://github.com/dlsiddon)
   * what happens is he is so far ahead of anything we're doing that he'll casually drop something my way on some thing we could improve and then when it dawns on me months later, I finally get around to it and we push it out. He's super patient with me and it's much appreciated. Consistently lands massive impact while actively mentoring not only our team but nearly our entire org.
+* [Britt Anderson](https://github.com/banderson443)
+  * We've worked at a lot of similar places with a lot of the same folks, and the neat part is a whole bunch of people around Memphis can say the same. We commisserate a lot about software and security and systems and he continually educates my lazy ass on everything I keep ignoring for windows domains, too.
 * [Victor Obiremi](https://github.com/obz10050)
   * we work together on supporting Kafka at ALSAC and I can't say enough good stuff here. A great joy to work with and learning from each other is consistently fun and rewarding. As a platform owner trying to wrangle some sense into so many places at once, having a strong engineer who could ship even faster if we let him is the best.
 
