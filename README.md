@@ -40,13 +40,11 @@ Note: *I want to put some people on this list but I'd rather do it through a set
 Some spaces where I maintain some presence:
 
 * [BlinkingBoxes.net](https://blinkingboxes.net)
-  * A deliberately informal space where I write, sketch ideas, and leave rough edges visible on purpose. Keeping it raw helps me fight perfectionism and focus on progress over polish.
-  * It’s paradoxical, yet it works :)
+  * I can't always say for sure what state this place is in and it's fun that way. Feel free to judge me at any given time here :D
 * [devmem.sh](https://www.instagram.com/devmem.sh/)
-  * A tech-focused, intentionally playful account. One day it clicked that I’m a Linux nerd and developer in Memphis, and with the explosion of TLDs, buying `devmem.sh` was too good to pass up.
-  * I see it as a low-pressure alias where I can share ideas, jokes, and experiments and maybe grow it into something more over time.
+  * One day it clicked that I’m a Linux nerd and developer in Memphis, and with the explosion of TLDs, buying `devmem.sh` was too good to pass up. Might see if I can spin something up here but in the meantime, it's a interesting alias.
 * [@drewc@fosstodon.org](https://fosstodon.org/@drewc)
-  * I enjoy social media, but I’m intentional about where I spend that energy. Mastodon’s open, decentralized model fits me best and the fosstodon community seems to align with my goals for open source and perspectives on the world at large.
+  * FOSS social media? badass; sign me tf up.
 
 ---
 
