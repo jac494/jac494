@@ -42,7 +42,7 @@ Some spaces where I maintain some presence:
 * [BlinkingBoxes.net](https://blinkingboxes.net)
   * I can't always say for sure what state this place is in and it's fun that way. Feel free to judge me at any given time here :D
 * [devmem.sh](https://www.instagram.com/devmem.sh/)
-  * One day it clicked that I’m a Linux nerd and developer in Memphis, and with the explosion of TLDs, buying `devmem.sh` was too good to pass up. Might see if I can spin something up here but in the meantime, it's a interesting alias.
+  * One day it clicked that I’m a Linux nerd and developer in Memphis, and with the explosion of TLDs, buying `devmem.sh` was too good to pass up. Might see if I can spin something up here but in the meantime, it's an interesting alias.
 * [@drewc@fosstodon.org](https://fosstodon.org/@drewc)
   * FOSS social media? badass; sign me tf up.
 
