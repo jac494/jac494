@@ -12,6 +12,8 @@ I've worked with a ton of amazing folks, here are some that have made major impa
 
 * [Britt Anderson](https://github.com/banderson443)
   * We've worked at a lot of similar places with a lot of the same folks, and the neat part is a whole bunch of people around Memphis can say the same. We commisserate a lot about software and security and systems and he continually educates my lazy ass on everything I keep ignoring for windows domains, too.
+* [Dorde Dordevic](https://www.linkedin.com/in/dorde-dordevic-baa56b142/)
+  * One of my favorite DBAs and systems folks to work with; constantly pleasant to be around and wants to improve the state of the world. Awesome human overall and he pushes hard on the envelope of safety and reliability for databases and DB management at ALSAC.
 * [Victor Obiremi](https://github.com/obz10050)
   * we work together on supporting Kafka at ALSAC and I can't say enough good stuff here. A great joy to work with and learning from each other is consistently fun and rewarding. As a platform owner trying to wrangle some sense into so many places at once, having a strong engineer who could ship even faster if we let him is the best.
 * [David Siddon](https://github.com/dlsiddon)
